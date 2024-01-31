@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 35aabba44f4102249a74a495b4a01d46
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple
+    second: {fileID: 2100000, guid: 7c592a8c0b4d2f0458ecbabb44e63960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broccoli
+    second: {fileID: 2100000, guid: 8fbb8354c056adb4b9ea71c9da3649d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabbage
+    second: {fileID: 2100000, guid: bb6bd84d1a742394ea79673377076fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrot
+    second: {fileID: 2100000, guid: 557f58dc31309974d8e3e32db7c73e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cucumber
+    second: {fileID: 2100000, guid: 82caab04944400345b8245fe2866cb20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dragonfruit
+    second: {fileID: 2100000, guid: 8b80dc728d5ff9d479241af670427d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garlic
+    second: {fileID: 2100000, guid: 200a982a96c8d1d4ea3fbe82ba9b3ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HatsMaterial
+    second: {fileID: 2100000, guid: c4da1782ad65f4844a120a8edf44ec5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jackfruit
+    second: {fileID: 2100000, guid: f48716bc36c00764fa47e0558cfdeadb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mandarin.001
+    second: {fileID: 2100000, guid: d32bf5045f1aedf43935d543a5eaf2b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mango
+    second: {fileID: 2100000, guid: 815e46806988d454590f54857656a20f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Melon
+    second: {fileID: 2100000, guid: 7a0f3767c42e8784797d3b99edcf01b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nectarines
+    second: {fileID: 2100000, guid: adc78d5265f70a54db2e737414bcff23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noni
+    second: {fileID: 2100000, guid: 45e892728b70bca4d8b54914fedf32d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Papaya
+    second: {fileID: 2100000, guid: 8bf7629a97c59f940b5bbb4d26925209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paprika
+    second: {fileID: 2100000, guid: 3f17c7e0c2e656e4999c2a4ee41f4158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peach
+    second: {fileID: 2100000, guid: 49b58b808a1f1a147a2de975c1d3fab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pineapple
+    second: {fileID: 2100000, guid: 8cee3a3ba77c9754f8457633c244e697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Potato
+    second: {fileID: 2100000, guid: 5b5e6d59004d45349a63398c883cbf7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Bell Pepper
+    second: {fileID: 2100000, guid: 36e9b91ef3db95a49a78482d490c6652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Pear
+    second: {fileID: 2100000, guid: 975f6687b9e3e0d46bb2522bb31fc887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Pepper
+    second: {fileID: 2100000, guid: 4ff727420bd02774995af5728fc71004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Russett Potato
+    second: {fileID: 2100000, guid: cb5b51b661dd84c46ac26159614c102c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sunkist
+    second: {fileID: 2100000, guid: 9679e8d4fed328449a58488f0f3f7df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: bcd3ce8dc70fabe47bd63c11d27ec261, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Apple_Albedo
+    second: {fileID: 2800000, guid: 39b11e033d2f0db4d8cb97f08721d93d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Broccoli_Albedo
+    second: {fileID: 2800000, guid: c74933b0950c4ca469165d43e269af42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cabbage_Albedo
+    second: {fileID: 2800000, guid: a21bd08d039f307489441a29598f2015, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carrot_Albedo
+    second: {fileID: 2800000, guid: 419a31f813fcae04982f8becd5521e3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cucumber_BaseColor
+    second: {fileID: 2800000, guid: 819338d232f7e5640b0cd2066c795661, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dragonfruit_BaseColor
+    second: {fileID: 2800000, guid: 1db2ecb5323e569459591867ec1a8847, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Garlic_Albedo
+    second: {fileID: 2800000, guid: b81cd141f16daf54d909c74ea3420042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HatsTexture
+    second: {fileID: 2800000, guid: b2b351f2b7d56e24caf7fe99b43feafb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jackfruit_BaseColor
+    second: {fileID: 2800000, guid: 29270e1ed176df8418c47f977dcd5ab5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mandarin_Orange_Albedo
+    second: {fileID: 2800000, guid: e75ae9e987addcf4f9903795e89ec444, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mango_Albedo
+    second: {fileID: 2800000, guid: 594935474607fa5469e906729bda1d50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Melon_BaseColor
+    second: {fileID: 2800000, guid: cf01b7e450aec5644b70802a188b22f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nectarines_BaseColor
+    second: {fileID: 2800000, guid: 382bdc5088c2aa849a158b8ff4d46106, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noni_BaseColor
+    second: {fileID: 2800000, guid: 8a19437afb6048f4fb0f9e485f343821, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Papaya_BaseColor
+    second: {fileID: 2800000, guid: d8bd25a102cbe0a44bfea901c24c2a12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paprika_BaseColor
+    second: {fileID: 2800000, guid: ec6056d9fc386ff4898e4e294ecdebac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Peach_Albedo
+    second: {fileID: 2800000, guid: ff709fb4defa855409970253365fefd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pineapple_BaseColor
+    second: {fileID: 2800000, guid: f5fc5fc2a91829d4fb8a8b59a08e42e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Potato_Albedo
+    second: {fileID: 2800000, guid: d9b4abe07af4ada4eb303b715818c1c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Red_Bell_Pepper_Albedo
+    second: {fileID: 2800000, guid: 2ed91f2a1cb643241a55cc3a642be1e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Red_Pear_Albedo
+    second: {fileID: 2800000, guid: 77bcfbd7c58192e4c8cc07a394debf27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Red_Pepper_Albedo
+    second: {fileID: 2800000, guid: 892dbcbd929e5ed4fa52cb3a6bcf0817, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Russet_Potato_Albedo
+    second: {fileID: 2800000, guid: 568d6067bc0d81f46a76ecd35eaeca71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sunkist_BaseColor
+    second: {fileID: 2800000, guid: 6abf81d23a1a8e646afac5ec3e08512b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wooden-texture
+    second: {fileID: 2800000, guid: 88d2ca390ad58bb4aa1891021034bb46, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
